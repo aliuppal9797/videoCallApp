@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">gossip</string>
+    <string name="create_an_account">create an account</string>
+    <string name="already_have_an_account">already have an account?</string>
+</resources>
